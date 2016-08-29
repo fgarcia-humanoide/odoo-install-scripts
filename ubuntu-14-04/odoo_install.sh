@@ -2,7 +2,9 @@
 ################################################################################
 # Script for Installation: ODOO 9.0 Community server on Ubuntu 14.04 LTS
 # Author: André Schenkels, ICTSTUDIO 2015
+# Contiene modificaciónes de Humanoide
 #-------------------------------------------------------------------------------
+#Se ha modificado el orden de los addons, y se ha puesto versión 8
 #  
 # This script will install ODOO Server on
 # clean Ubuntu 14.04 Server
